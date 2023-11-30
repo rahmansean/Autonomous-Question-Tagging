@@ -1,2 +1,3 @@
-# Autonomous-Question-Tagging
-This project focuses on developing an autonomous tagging system for Stack Overflow. Currently, users manually enter tags for their questions, which can be inaccurate or insufficient. To address this issue, we applied machine learning methods along with essential data preprocessing techniques.
+# Intelligent Question Tagging: Leveraging Advanced Machine Learning Techniques for Automatic Stack Overflow Question Classification
+
+This project focuses on developing an automatic tagging system for Stack Overflow questions. Currently, users manually enter tags on this platform, which can occasionally lead to errors and insufficiencies. To improve the precision and effectiveness of question tagging, machine learning techniques such as Random Forest, SGD Classifier, Multinomial NB, and Logistic Regression were employed in this study in conjunction with crucial data pre-processing techniques. 
